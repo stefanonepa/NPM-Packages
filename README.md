@@ -1,4 +1,4 @@
-# NPM-Packages that i should to use more
+# NPM-Packages that i should try
 
 - [isvalid](https://www.npmjs.com/package/isvalid)
 - [forever](https://www.npmjs.com/package/forever)
@@ -14,5 +14,5 @@
 
 
 ## Packages list to look
--[sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
+- [sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 
