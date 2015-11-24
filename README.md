@@ -7,15 +7,13 @@
 - [q](https://www.npmjs.com/package/q)
 - [bluebird](https://www.npmjs.com/package/bluebird)
 
-
 - [loopback](https://www.npmjs.com/package/loopback)
 - [sails](https://www.npmjs.org/package/sails)
-
 
 - [forever](https://www.npmjs.com/package/forever)
 - [pm2](https://www.npmjs.com/package/pm2)
 
-- [sequelize(https://www.npmjs.com/package/sequelize)
+- [sequelize](https://www.npmjs.com/package/sequelize)
 
 - [lodash](https://www.npmjs.com/package/lodash)
 - [i18n](https://www.npmjs.com/package/i18n)
