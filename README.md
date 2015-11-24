@@ -13,6 +13,10 @@
 
 
 - [forever](https://www.npmjs.com/package/forever)
+- [pm2](https://www.npmjs.com/package/pm2)
+
+- [sequelize(https://www.npmjs.com/package/sequelize)
+
 - [lodash](https://www.npmjs.com/package/lodash)
 - [i18n](https://www.npmjs.com/package/i18n)
 - [socket.io](https://www.npmjs.com/package/socket.io)
