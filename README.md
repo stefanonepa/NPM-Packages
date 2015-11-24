@@ -2,9 +2,8 @@
 
 - [jsonschema](https://www.npmjs.com/package/jsonschema)
 - [isvalid](https://www.npmjs.com/package/isvalid)
-- 
--------
 
+-------
 
 - [q](https://www.npmjs.com/package/q)
 - [bluebird](https://www.npmjs.com/package/bluebird)
