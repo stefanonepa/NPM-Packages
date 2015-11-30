@@ -29,8 +29,15 @@
 - [socket.io](https://www.npmjs.com/package/socket.io)
 - [nconf](https://www.npmjs.com/package/nconf)
 - [shelljs](https://www.npmjs.com/package/shelljs)
+- [cherios](https://github.com/cheeriojs/cheerio)
+- [nodemailer](https://github.com/andris9/Nodemailer)
+- [async](https://github.com/caolan/async)
 
+-------
+
+- [nodejs-enterprise (cms)](https://github.com/nodejs-enterprise/cms)
 
 ## Packages list to look
 - [sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
+- [ericelliot](https://github.com/ericelliott/essential-javascript-links#libraries)
 
