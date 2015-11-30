@@ -32,6 +32,7 @@
 - [cherios](https://github.com/cheeriojs/cheerio)
 - [nodemailer](https://github.com/andris9/Nodemailer)
 - [async](https://github.com/caolan/async)
+- [P (webbrowser p2p)](https://github.com/unsetbit/p)
 
 -------
 
