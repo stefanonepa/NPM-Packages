@@ -1,5 +1,9 @@
 # NPM-Packages that i should try
 
+- [total.js](https://www.npmjs.com/package/total.js)
+
+-------
+
 - [jsonschema](https://www.npmjs.com/package/jsonschema)
 - [isvalid](https://www.npmjs.com/package/isvalid)
 
