@@ -1,6 +1,7 @@
 # NPM-Packages that i should try
 
 - [total.js](https://www.npmjs.com/package/total.js)
+- [adonis](http://adonisjs.com)
 
 -------
 
